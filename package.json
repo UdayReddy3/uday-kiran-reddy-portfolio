@@ -1,0 +1,23 @@
+{
+  "name": "uday-kiran-reddy-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio of Sareddy Uday Kiran Reddy: Data Analytics, Data Science and AI/ML Engineering.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.0",
+    "@fontsource/jetbrains-mono": "^5.0.0",
+    "@fontsource/playfair-display": "^5.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.6"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
